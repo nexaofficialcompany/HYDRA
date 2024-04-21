@@ -3,7 +3,7 @@
 > Original project from CSP (NEXA) by DevHolic
 
 > ### HYDRA Project
-> The project is generated to help to analysis specific processes informations, network connection management, malicious process removal.
+> This project is created for malicious process removal, network connection management, and process management.
 
 > ### Base Programming Language
 > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" style="width: 100px;"/>
