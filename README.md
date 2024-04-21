@@ -5,13 +5,13 @@
 > ### HYDRA Project
 > This project is created for malicious process removal, network connection management, and process management.
 
+> ### Version Log
+> - [HYDRA 2.0.0 CLI (Latest)](https://github.com/DevHolicOffical/HYDRA/tree/main/HYDRA%202.0.0)
+> - [HYDRA 1.4.0 GUI](https://github.com/DevHolicOffical/HYDRA/tree/main/HYDRA%201.4.0)
+
 > ### Base Programming Language
 > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" style="width: 100px;"/>
 
 > ### Base System Module
 > - [psutil](https://pypi.org/project/psutil/)
 > - [tkinter](https://docs.python.org/3/library/tkinter.html)
-
-> ### Version Log
-> - [HYDRA 2.0.0 (Latest)](https://github.com/DevHolicOffical/HYDRA/tree/main/HYDRA%202.0.0)
-> - [HYDRA 1.4.0](https://github.com/DevHolicOffical/HYDRA/tree/main/HYDRA%201.4.0)
